@@ -1,0 +1,541 @@
+[
+  {
+    "id": 1,
+    "title": "Preparing for a new dog",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Set up a quiet sleeping place, fresh water, suitable food, a collar or harness and secure identification.",
+      "Arrange a vet appointment, discuss vaccinations and parasite prevention, and plan gradual introductions."
+    ],
+    "caution": "Allow time to settle; avoid overwhelming the dog with visitors."
+  },
+  {
+    "id": 2,
+    "title": "Choosing suitable equipment",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Select a comfortable well-fitting harness or collar, lead, bowls, bed and safe chew toys.",
+      "Check fit regularly, particularly for growing puppies; inspect toys for wear."
+    ],
+    "caution": "Avoid equipment that restricts breathing or causes pain."
+  },
+  {
+    "id": 3,
+    "title": "Dog identification and microchipping",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Make sure your dog is microchipped and your keeper details are up to date.",
+      "Use a collar identification tag when out, as required by local law."
+    ],
+    "caution": "In the UK dogs must be microchipped and registered on a compliant database; check current rules."
+  },
+  {
+    "id": 4,
+    "title": "Creating a calm daily routine",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Keep meals, toilet breaks, rest, walks and play reasonably predictable.",
+      "Build in quiet time and adjust the routine for age, health and individual needs."
+    ],
+    "caution": "Avoid rigid routines that prevent necessary toilet breaks or rest."
+  },
+  {
+    "id": 5,
+    "title": "Introducing a dog to a new home",
+    "category": "Getting Started",
+    "frequency": "As needed",
+    "steps": [
+      "Start with one or two quiet rooms and show the dog where water and resting places are.",
+      "Let the dog explore at its own pace and reward calm behaviour."
+    ],
+    "caution": "Never force contact or punish fearful behaviour."
+  },
+  {
+    "id": 6,
+    "title": "Choosing a complete dog food",
+    "category": "Feeding & Nutrition",
+    "frequency": "As needed",
+    "steps": [
+      "Choose a nutritionally complete food appropriate to your dog's life stage and needs.",
+      "Follow the maker's feeding guide as a starting point and monitor body condition."
+    ],
+    "caution": "Ask your vet about therapeutic diets or significant dietary changes."
+  },
+  {
+    "id": 7,
+    "title": "Changing food gradually",
+    "category": "Feeding & Nutrition",
+    "frequency": "As needed",
+    "steps": [
+      "Mix a small amount of the new food with the usual food and increase gradually over about a week.",
+      "Watch appetite, stool and comfort during the change."
+    ],
+    "caution": "Seek veterinary advice for persistent vomiting, diarrhoea or refusal to eat."
+  },
+  {
+    "id": 8,
+    "title": "Fresh drinking water",
+    "category": "Feeding & Nutrition",
+    "frequency": "As needed",
+    "steps": [
+      "Provide clean fresh water at all times and wash bowls regularly.",
+      "Take water on walks and in hot weather; check intake changes."
+    ],
+    "caution": "Sudden excessive thirst or inability to drink warrants veterinary advice."
+  },
+  {
+    "id": 9,
+    "title": "Safe treat habits",
+    "category": "Feeding & Nutrition",
+    "frequency": "As needed",
+    "steps": [
+      "Use small portions of dog-safe treats for training and enrichment.",
+      "Count treats within the daily food allowance and choose size-appropriate chews."
+    ],
+    "caution": "Avoid grapes, raisins, chocolate, xylitol and cooked bones; ask a vet about any ingestion."
+  },
+  {
+    "id": 10,
+    "title": "Monitoring body condition",
+    "category": "Feeding & Nutrition",
+    "frequency": "As needed",
+    "steps": [
+      "Feel for ribs under a light covering of tissue and look for a visible waist from above.",
+      "Track weight periodically and discuss changes with your vet."
+    ],
+    "caution": "Rapid unexplained weight change can indicate illness."
+  },
+  {
+    "id": 11,
+    "title": "Foods to keep away from dogs",
+    "category": "Feeding & Nutrition",
+    "frequency": "As needed",
+    "steps": [
+      "Store chocolate, grapes, raisins, onions, garlic, alcohol and xylitol-containing products securely.",
+      "Keep bins closed and remind visitors not to offer table scraps."
+    ],
+    "caution": "If your dog eats a potentially toxic item, contact a vet promptly; do not induce vomiting unless instructed."
+  },
+  {
+    "id": 12,
+    "title": "Planning age-appropriate walks",
+    "category": "Exercise & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Choose walk length and pace based on breed, age, fitness and weather.",
+      "Let your dog sniff and take breaks; increase activity gradually."
+    ],
+    "caution": "Avoid strenuous exercise for puppies or dogs with health conditions without veterinary advice."
+  },
+  {
+    "id": 13,
+    "title": "Safe outdoor play",
+    "category": "Exercise & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Use a secure area and appropriate toys for fetch, searching and gentle games.",
+      "Check the ground for hazards and provide water and rest."
+    ],
+    "caution": "Stop if the dog limps, overheats or appears exhausted."
+  },
+  {
+    "id": 14,
+    "title": "Scent games at home",
+    "category": "Exercise & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Hide a few pieces of regular food in easy-to-find places or a snuffle mat.",
+      "Make searches gradually more challenging while supervising."
+    ],
+    "caution": "Use only dog-safe items and prevent swallowing of fabric or toy parts."
+  },
+  {
+    "id": 15,
+    "title": "Food puzzles and enrichment",
+    "category": "Exercise & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Try a suitable food puzzle or lick mat with part of the daily ration.",
+      "Supervise the first sessions and clean the equipment after use."
+    ],
+    "caution": "Avoid puzzle pieces small enough to swallow."
+  },
+  {
+    "id": 16,
+    "title": "Helping a bored dog",
+    "category": "Exercise & Enrichment",
+    "frequency": "As needed",
+    "steps": [
+      "Rotate safe toys, add sniffing opportunities and short reward-based training sessions.",
+      "Balance mental activity with sufficient sleep and calm downtime."
+    ],
+    "caution": "Destructive behaviour may reflect anxiety or medical problems, not just boredom."
+  },
+  {
+    "id": 17,
+    "title": "Reward-based basic training",
+    "category": "Training & Behaviour",
+    "frequency": "As needed",
+    "steps": [
+      "Reward the behaviour you want immediately with food, play or praise.",
+      "Practise short sessions for cues such as sit, come and wait."
+    ],
+    "caution": "Avoid intimidation, punishment or aversive training tools."
+  },
+  {
+    "id": 18,
+    "title": "Teaching a reliable recall",
+    "category": "Training & Behaviour",
+    "frequency": "As needed",
+    "steps": [
+      "Start indoors or in a secure area and reward every return enthusiastically.",
+      "Progress to a long training line in safe places before trying more distractions."
+    ],
+    "caution": "Do not let a dog off lead where recall is unreliable or unsafe."
+  },
+  {
+    "id": 19,
+    "title": "Loose-lead walking",
+    "category": "Training & Behaviour",
+    "frequency": "As needed",
+    "steps": [
+      "Reward your dog for staying near you when the lead is slack.",
+      "Pause or change direction gently when pulling begins; practise in quiet areas."
+    ],
+    "caution": "Do not jerk the lead or use devices that cause pain."
+  },
+  {
+    "id": 20,
+    "title": "Toilet training a puppy",
+    "category": "Training & Behaviour",
+    "frequency": "As needed",
+    "steps": [
+      "Take your puppy outside after waking, eating, play and at frequent intervals.",
+      "Reward toileting outdoors and clean indoor accidents without punishment."
+    ],
+    "caution": "Sudden accidents in a previously trained dog may need a vet check."
+  },
+  {
+    "id": 21,
+    "title": "Managing separation worries",
+    "category": "Training & Behaviour",
+    "frequency": "As needed",
+    "steps": [
+      "Practise very short, comfortable absences and return before distress builds.",
+      "Provide a safe resting area and seek a qualified behaviour professional for persistent distress."
+    ],
+    "caution": "Do not use punishment or leave a panicking dog to cry it out."
+  },
+  {
+    "id": 22,
+    "title": "Understanding dog body language",
+    "category": "Training & Behaviour",
+    "frequency": "As needed",
+    "steps": [
+      "Watch posture, tail, ears, eyes, movement and the overall context.",
+      "Give space when a dog freezes, turns away, lip-licks repeatedly or growls."
+    ],
+    "caution": "A wagging tail alone does not always mean a dog is comfortable."
+  },
+  {
+    "id": 23,
+    "title": "Introducing dogs safely",
+    "category": "Training & Behaviour",
+    "frequency": "As needed",
+    "steps": [
+      "Start with distance in a neutral outdoor space and reward calm behaviour.",
+      "Keep leads loose, allow breaks and separate if either dog becomes tense."
+    ],
+    "caution": "Do not force face-to-face greetings or ignore signs of fear."
+  },
+  {
+    "id": 24,
+    "title": "Brushing the coat",
+    "category": "Grooming & Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Use a brush appropriate to coat type and work gently in short sessions.",
+      "Check for mats, skin irritation, fleas and debris while grooming."
+    ],
+    "caution": "Never cut tight mats close to the skin with scissors."
+  },
+  {
+    "id": 25,
+    "title": "Bathing your dog",
+    "category": "Grooming & Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Use lukewarm water and dog-formulated shampoo only when needed.",
+      "Rinse thoroughly and dry carefully, especially skin folds and ears."
+    ],
+    "caution": "Avoid getting shampoo in eyes and ears; ask a vet about irritated skin."
+  },
+  {
+    "id": 26,
+    "title": "Checking paws after walks",
+    "category": "Grooming & Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Inspect pads and between toes for stones, grass seeds, cuts or irritation.",
+      "Rinse off road salt or other residues and dry the paws."
+    ],
+    "caution": "Deep cuts, swelling or persistent licking need veterinary assessment."
+  },
+  {
+    "id": 27,
+    "title": "Nail care basics",
+    "category": "Grooming & Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Check whether nails are overlong or clicking heavily on hard floors.",
+      "Ask a groomer or vet to demonstrate safe trimming if unsure."
+    ],
+    "caution": "Cutting the quick is painful and can bleed; do not force handling."
+  },
+  {
+    "id": 28,
+    "title": "Cleaning food and water bowls",
+    "category": "Grooming & Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Wash bowls with warm water and suitable washing-up liquid, then rinse well.",
+      "Clean more frequently when using wet food or in hot weather."
+    ],
+    "caution": "Avoid leaving cleaning-product residue on bowls."
+  },
+  {
+    "id": 29,
+    "title": "Looking after ears",
+    "category": "Grooming & Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Check for unusual smell, redness, discharge or repeated head shaking.",
+      "Only clean ears with a vet-recommended product if advised."
+    ],
+    "caution": "Do not insert cotton buds into the ear canal."
+  },
+  {
+    "id": 30,
+    "title": "Dental care and toothbrushing",
+    "category": "Grooming & Hygiene",
+    "frequency": "As needed",
+    "steps": [
+      "Introduce dog-safe toothpaste and a soft dog toothbrush gradually with rewards.",
+      "Brush regularly as tolerated and ask your vet about dental checks."
+    ],
+    "caution": "Never use human toothpaste, which may contain harmful ingredients."
+  },
+  {
+    "id": 31,
+    "title": "Routine veterinary check-ups",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Arrange regular veterinary health checks and discuss weight, teeth and mobility.",
+      "Keep a record of medications, vaccination history and any changes in behaviour."
+    ],
+    "caution": "Online guides cannot diagnose illness."
+  },
+  {
+    "id": 32,
+    "title": "Vaccinations and boosters",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Ask your vet which core and lifestyle-related vaccinations your dog needs.",
+      "Record dates and discuss the appropriate booster schedule with your practice."
+    ],
+    "caution": "Vaccination schedules vary with the dog and local disease risks."
+  },
+  {
+    "id": 33,
+    "title": "Flea and tick prevention",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Discuss an appropriate prevention plan with your vet or veterinary professional.",
+      "Check the coat after outdoor activities, particularly around ears and skin folds."
+    ],
+    "caution": "Never use cat or dog parasite products interchangeably without veterinary advice."
+  },
+  {
+    "id": 34,
+    "title": "Worming and parasite checks",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Ask your vet about a risk-based worming and testing plan.",
+      "Pick up faeces promptly and wash hands after handling waste."
+    ],
+    "caution": "Do not guess medicine doses or use unlicensed remedies."
+  },
+  {
+    "id": 35,
+    "title": "Recognising urgent warning signs",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Watch for breathing difficulty, collapse, repeated seizures, a swollen painful abdomen or severe bleeding.",
+      "Contact an emergency veterinary service immediately if these occur."
+    ],
+    "caution": "Do not wait for an app checklist to confirm an emergency."
+  },
+  {
+    "id": 36,
+    "title": "What to do if your dog may be poisoned",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Move the dog away from the suspected substance and keep packaging or a photo of it.",
+      "Call your vet or emergency vet promptly with the substance and estimated amount."
+    ],
+    "caution": "Do not induce vomiting or give home remedies unless directed by a vet."
+  },
+  {
+    "id": 37,
+    "title": "Keeping a health and medication record",
+    "category": "Health & Prevention",
+    "frequency": "As needed",
+    "steps": [
+      "Note vet visits, prescribed medication, doses as labelled, allergies and follow-up dates.",
+      "Keep your vet's contact number and emergency details handy."
+    ],
+    "caution": "Only give medicines prescribed or approved for that dog by a vet."
+  },
+  {
+    "id": 38,
+    "title": "Keeping dogs safe in hot weather",
+    "category": "Seasonal Safety",
+    "frequency": "As needed",
+    "steps": [
+      "Walk in cooler hours, provide shade and plenty of water, and avoid hot pavement.",
+      "Watch for heavy panting, weakness, confusion or collapse."
+    ],
+    "caution": "Suspected heatstroke is an emergency: begin safe cooling and contact a vet urgently."
+  },
+  {
+    "id": 39,
+    "title": "Cold-weather dog care",
+    "category": "Seasonal Safety",
+    "frequency": "As needed",
+    "steps": [
+      "Adjust walk duration to coat, age and health; dry wet fur and paws after outings.",
+      "Offer a warm draught-free resting place and avoid frozen water hazards."
+    ],
+    "caution": "Small, elderly and short-coated dogs may need extra protection."
+  },
+  {
+    "id": 40,
+    "title": "Fireworks and loud noises",
+    "category": "Seasonal Safety",
+    "frequency": "As needed",
+    "steps": [
+      "Provide a safe den and close curtains before noisy events.",
+      "Allow your dog to choose where to rest and ask your vet early about severe noise fears."
+    ],
+    "caution": "Never force a frightened dog outside or punish fear responses."
+  },
+  {
+    "id": 41,
+    "title": "Safe travel in a car",
+    "category": "Seasonal Safety",
+    "frequency": "As needed",
+    "steps": [
+      "Use a properly secured crate or suitable dog restraint and plan regular breaks.",
+      "Carry water and never leave a dog alone in a parked car in warm conditions."
+    ],
+    "caution": "A car can overheat rapidly even when the outside temperature seems mild."
+  },
+  {
+    "id": 42,
+    "title": "Helping an older dog stay comfortable",
+    "category": "Senior Dog Care",
+    "frequency": "As needed",
+    "steps": [
+      "Provide supportive bedding, non-slip surfaces and easy access to food and water.",
+      "Adjust exercise and discuss stiffness, sleep changes or accidents with your vet."
+    ],
+    "caution": "Do not assume pain or confusion is simply normal ageing."
+  },
+  {
+    "id": 43,
+    "title": "Watching for changes in appetite and mobility",
+    "category": "Senior Dog Care",
+    "frequency": "As needed",
+    "steps": [
+      "Note changes in eating, drinking, climbing stairs, getting up and willingness to walk.",
+      "Arrange a veterinary check for persistent or sudden changes."
+    ],
+    "caution": "Never give human painkillers to dogs unless specifically prescribed."
+  },
+  {
+    "id": 44,
+    "title": "Adapting enrichment for senior dogs",
+    "category": "Senior Dog Care",
+    "frequency": "As needed",
+    "steps": [
+      "Offer gentle sniffing games and easy food puzzles suited to mobility and senses.",
+      "Keep activities short, comfortable and rewarding."
+    ],
+    "caution": "Stop any activity that causes pain, fatigue or distress."
+  },
+  {
+    "id": 45,
+    "title": "Dog-proofing the house",
+    "category": "Safety at Home",
+    "frequency": "As needed",
+    "steps": [
+      "Secure medicines, batteries, chemicals, wires and small objects that could be swallowed.",
+      "Check plants and food storage for pet safety and provide safe resting areas."
+    ],
+    "caution": "Contact a vet promptly after suspected ingestion of hazardous items."
+  },
+  {
+    "id": 46,
+    "title": "Safe garden and outdoor spaces",
+    "category": "Safety at Home",
+    "frequency": "As needed",
+    "steps": [
+      "Inspect fences, gates, ponds, sharp tools and garden chemicals.",
+      "Supervise access to potentially hazardous plants and compost."
+    ],
+    "caution": "Some fertilisers, slug pellets and plants can be toxic to dogs."
+  },
+  {
+    "id": 47,
+    "title": "Children and dogs together",
+    "category": "Safety at Home",
+    "frequency": "As needed",
+    "steps": [
+      "Supervise all interactions and teach children to respect resting and eating dogs.",
+      "Give the dog a quiet retreat that children do not enter."
+    ],
+    "caution": "Never leave young children unsupervised with a dog, even a familiar one."
+  },
+  {
+    "id": 48,
+    "title": "Preparing for a lost dog",
+    "category": "Safety at Home",
+    "frequency": "As needed",
+    "steps": [
+      "Keep microchip contact details current and have a recent clear photo.",
+      "If missing, contact local services, chip database and relevant lost-pet organisations."
+    ],
+    "caution": "Do not post sensitive personal information publicly."
+  },
+  {
+    "id": 49,
+    "title": "Emergency planning for pet owners",
+    "category": "Safety at Home",
+    "frequency": "As needed",
+    "steps": [
+      "Keep your vet and out-of-hours numbers, medication list and carrier or lead accessible.",
+      "Prepare a small supply of food, water and essential items for unexpected travel."
+    ],
+    "caution": "Seek professional veterinary help for emergencies, not home treatment."
+  }
+]
